@@ -1,0 +1,12 @@
+bin\Debug\ResidueBasedPeptideGeneration.exe
+bin\Debug\ResidueBasedPeptideGeneration.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ResidueBasedPeptideGeneration.Properties.Resources.resources
+obj\Debug\ResidueBasedPeptideGeneration.csproj.GenerateResource.Cache
+obj\Debug\ResidueBasedPeptideGeneration.exe
+obj\Debug\ResidueBasedPeptideGeneration.pdb
+bin\Debug\ResidueBasedPeptideGenerationLib.dll
+bin\Debug\PeptideGenerator.dll
+bin\Debug\ResidueBasedPeptideGenerationLib.pdb
+bin\Debug\PeptideGenerator.pdb
+obj\Debug\ResidueBasedPeptideGeneration.Form1.resources

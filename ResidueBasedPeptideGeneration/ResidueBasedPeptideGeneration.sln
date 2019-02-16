@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResidueBasedPeptideGeneration", "ResidueBasedPeptideGeneration\ResidueBasedPeptideGeneration.csproj", "{0345AC08-26A2-4CD5-B665-805384D5C834}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResidueBasedPeptideGenerationLib", "ResidueBasedPeptideGenerationLib\ResidueBasedPeptideGenerationLib.csproj", "{90901047-505D-4587-970A-434B598F0581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0345AC08-26A2-4CD5-B665-805384D5C834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0345AC08-26A2-4CD5-B665-805384D5C834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0345AC08-26A2-4CD5-B665-805384D5C834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0345AC08-26A2-4CD5-B665-805384D5C834}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90901047-505D-4587-970A-434B598F0581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90901047-505D-4587-970A-434B598F0581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90901047-505D-4587-970A-434B598F0581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90901047-505D-4587-970A-434B598F0581}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

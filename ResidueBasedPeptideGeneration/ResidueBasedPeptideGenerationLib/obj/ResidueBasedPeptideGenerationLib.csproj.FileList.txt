@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\ResidueBasedPeptideGenerationLib.dll
+bin\Debug\ResidueBasedPeptideGenerationLib.pdb
+bin\Debug\PeptideGenerator.dll
+bin\Debug\PeptideGenerator.pdb
+obj\Debug\ResidueBasedPeptideGenerationLib.dll
+obj\Debug\ResidueBasedPeptideGenerationLib.pdb
